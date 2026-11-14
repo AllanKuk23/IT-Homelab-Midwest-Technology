@@ -5,9 +5,9 @@
 
 ## Project Overview
 
-I created Midwest Technology as a hands-on IT homelab to build practical experience with Windows Server, virtualization, networking, and system administration.
+I created a homelab to simulate a small business environment and named it Midwest Technology. I was interested in how an actual IT infrastructure works and this was a great way for me to build practical experience with Windows Server, virtualization, networking, and system administration.
 
-Using Windows Server 2022 and Hyper-V, I am building a simulated small-business environment where I can configure and manage servers, Active Directory, network services, user accounts, and security policies.
+Using Windows Server 2022 and Hyper-V, I built a simulated small-business environment where I can configure and manage servers, Active Directory, network services, user accounts, and security policies.
 
 My goal is to apply what I am learning in school to real-world IT scenarios, improve my troubleshooting skills, and document my progress as I work toward a career in IT support and network administration.
 
