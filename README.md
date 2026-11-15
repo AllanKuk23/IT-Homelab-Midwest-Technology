@@ -13,7 +13,7 @@ My goal is to apply what I am learning in school to real-world IT scenarios, imp
 
 ---
 
-## Start Here | Explore the Project
+# 👇 Start Here | Click a Colored Phase Below to Explore 👇
 
 Each phase contains documentation, configuration details, verification steps, screenshots, and lessons learned as the project develops.
 
