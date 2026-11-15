@@ -13,10 +13,9 @@ My goal is to apply what I am learning in school to real-world IT scenarios, imp
 
 ---
 
-# 👇 Start Here | Click a Colored Phase Below to Explore 👇
+# 👇 Start Here | Explore the Homelab
 
-Each phase contains documentation, configuration details, verification steps, screenshots, and lessons learned as the project develops.
-
+**Click a colored phase below** to explore the configurations, screenshots, troubleshooting, and hands-on work in my IT homelab.
 
 <a href="./Phase-01-Infrastructure/README.md"><img src="https://img.shields.io/badge/01-Infrastructure-2879CF?style=for-the-badge" height="40" alt="Phase 01 Infrastructure"></a>
 <a href="./Phase-02-Business-Environment/README.md"><img src="https://img.shields.io/badge/02-Business%20Environment-238750?style=for-the-badge" height="40" alt="Phase 02 Business Environment"></a>
