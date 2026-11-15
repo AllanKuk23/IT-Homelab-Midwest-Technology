@@ -114,6 +114,6 @@ This repository will continue to develop as I complete additional infrastructure
 
 **Status: Currently In Progress**
 
-I'm still working on building and improving this homelab as I continue learning more about IT. As I complete new configurations and projects, I'll be updating this repository with screenshots, documentation, and what I've learned along the way.
+I'm still working on building and improving this homelab. As I complete new configurations and projects, I will be updating this repository with screenshots, documentation, and what I've learned along the way.
 
-Some parts of the homelab are already up and running, while others are still being worked on. I'll continue adding to this project as I gain more hands-on experience.
+Some parts of the homelab are already up and running, while others are still being worked on. 
