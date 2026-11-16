@@ -4,17 +4,22 @@
 
 **Status: In Progress**
 
-In this phase, I built the foundation of my homelab using Windows Server 2022, Hyper-V, Active Directory, DNS, and DHCP. This page documents the work I have completed and verified so far. I will keep adding to it as I expand the infrastructure.
+In this phase, I built the foundation of my homelab using Windows Server 2022, Hyper-V, Active Directory, DNS, and DHCP. This page documents the work I have completed and verified so far. I will keep adding to it as I expand the lab infrastructure.
 
 ## 1. Building a Budget Homelab
 
 I wanted a practical way to learn Windows Server administration and networking without buying expensive enterprise equipment. I put together a working homelab using computer parts I already had. This gives me a place to build, troubleshoot, test changes, and document what I learn.
 
-![Physical homelab](screenshots/physical-homelab.jpg)
+<p align="center">
+  <img src="screenshots/physical-homelab.jpg" width="400" alt="Physical homelab">
+</p>
 
 **Figure 1 — Physical homelab:** My budget server build.
 
-![Server components](screenshots/server-components.jpg)
+<p align="center">
+  <img src="screenshots/server-components.jpg" width="400" alt="Server components">
+</p>
+
 
 **Figure 2 — Server components:** The physical computer used to run my Windows Server and Hyper-V environment.
 
