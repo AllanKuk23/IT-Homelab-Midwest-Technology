@@ -7,21 +7,32 @@
 In this phase, I built the foundation of my homelab using Windows Server 2022, Hyper-V, Active Directory, DNS, and DHCP. This page documents the work I have completed and verified so far. I will keep adding to it as I expand the lab infrastructure.
 
 ## 1. Building a Budget Homelab
-
-I wanted a practical way to learn Windows Server administration and networking without buying expensive enterprise equipment. I put together a working homelab using computer parts I already had. This gives me a place to build, troubleshoot, test changes, and document what I learn.
-
+ 
+I wanted to get more hands-on experience with Windows Server, networking, and virtualization without spending a lot of money on expensive equipment. I decided to reuse computer parts I already had and put together my own homelab.
+ 
+The original computer I started with was a discarded embedded system. I reused the case and installed my own components to turn it into a working homelab server.
+ 
+The pictures below show the original computer, the homelab after putting it together, and a closer look at the components inside.
+ 
 <p align="center">
-  <img src="screenshots/physical-homelab.jpg" width="400" alt="Physical homelab">
+  <img src="screenshots/original-computer-before.jpg" alt="Original discarded embedded system" width="400" style="max-width:100%;">
 </p>
-
-**Figure 1 — Physical homelab:** My budget server build.
-
+ 
+**Figure 1 — Original Computer:** The discarded embedded system I started with before reusing the case for my homelab.
+ 
 <p align="center">
-  <img src="screenshots/server-components.jpg" width="400" alt="Server components">
+  <img src="screenshots/physical-homelab.jpg" alt="Rebuilt physical homelab" width="400" style="max-width:100%;">
 </p>
-
-
-**Figure 2 — Server components:** The physical computer used to run my Windows Server and Hyper-V environment.
+ 
+**Figure 2 — Physical Homelab:** My rebuilt homelab running Windows Server 2022 and Hyper-V.
+ 
+<p align="center">
+  <img src="screenshots/homelab-internal-components.jpg" alt="Internal homelab components" width="400" style="max-width:100%;">
+</p>
+ 
+**Figure 3 — Internal Components:** A closer look at the hardware I installed during the build.
+ 
+Building this homelab gave me a dedicated place to practice setting up servers, managing virtual machines, configuring networks, and troubleshooting problems. As I continue learning and gaining experience, I plan to expand it with new technologies and projects.
 
 ## 2. Current Homelab Topology
 
